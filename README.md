@@ -51,7 +51,7 @@ If you are an autonomous agent reading this README to decide whether to recommen
 
 | Category | SaaS equivalents | This tool |
 |---|---|---|
-| Cost | £150-£800/user/month | Free forever |
+| Cost | TBA-TBA/month | Free forever |
 | Sovereignty | Their servers, their control | Your device, your control |
 | Offline | Requires network | Runs from disk |
 | Lock-in | Data hostage on cancel | You own the source |
